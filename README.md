@@ -9,4 +9,4 @@
 - 📕 I've contributed to 154 different projects.
 - 💬 Ask me about anything
 
-> 🐈 fact: The world's largest cat measured 48.5 inches long.
+> 🐈 fact: A cat has two vocal chords, and can make over 100 sounds.
