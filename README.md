@@ -7,6 +7,6 @@
 - 🔀 I've submitted 361 pull requests.
 - 🤷 I've created 1,311 issues.
 - 📕 I've contributed to 154 different projects.
-- 💬 Ask me about anything
+- 💬 Ask me about anything at github@femto.dev
 
 > 🐈 fact: A cat has two vocal chords, and can make over 100 sounds.
